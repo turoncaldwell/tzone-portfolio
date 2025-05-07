@@ -1,0 +1,2 @@
+# T-ZONE Portfolio
+This is my personal portfolio site showcasing my work and projects as a software developer. It is built with HTML, CSS, and JavaScript, features a responsive design for mobile and desktop, and includes links to my projects, resume, and contact information. To set it up, clone the repository with `git clone https://github.com/turoncaldwell/tzone-portfolio.git` and open `index.html` in your browser. You can visit the live site at http://portfolio.handsandheartsthatcare.org.
